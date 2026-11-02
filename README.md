@@ -47,4 +47,5 @@ Alguns arquivos são coleções de demonstrações e exercícios; leia o código
 ## Referência
 
 - [Playlist Jornada do Java ao Python no YouTube](https://www.youtube.com/playlist?list=PLAI-Jt0jFgxQ)
+- [Roadmap Do Java ao Python no Notion](https://giulianabezerra.notion.site/Do-Java-ao-Python-Giuliana-Bezerra-20e49c5a6df1828c859a01b2978349fb)
 
